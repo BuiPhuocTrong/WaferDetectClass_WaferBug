@@ -1,0 +1,6 @@
+{
+  "name": "Wafer Map Defect Classifier",
+  "description": "Phát hiện và phân loại lỗi trên tấm bán dẫn (wafer map) theo tập dữ liệu MixedWM38 sử dụng phân tích không gian và trí tuệ nhân tạo Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
